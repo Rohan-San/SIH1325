@@ -1,4 +1,3 @@
-# Kiosk
-Rural healthcare++
+# SIH1325
 
-[Click hereeeee](https://bitchord.vercel.app/)
+Final repo for all code
